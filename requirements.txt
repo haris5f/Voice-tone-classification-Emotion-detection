@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+MarkupSafe==1.1.1
+Werkzeug==2.0.0
+Flask==1.1.2
+gunicorn==19.9.0
+keras==2.8.0
+Keras-Preprocessing==1.1.2
+librosa==0.9.1
+requests
+Jinja2==2.10.1
+itsdangerous==2.0.1
+scipy
